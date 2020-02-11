@@ -1,0 +1,26 @@
+What is Data Science?
+
+.It is a InterDisiplinary Field That consists of Computer Science, Math and Stats and Domain Knowledge. A Combination of the 3
+. It can make knowledge that can create rational decisions.
+. Data science is more than an Analyst, Scientist and a Programmer
+. They are rapidly growing in demand
+. They have high salaries
+. Skills associated with are
+.. Programming
+.. Working with data
+.. Descriptive statistics
+.. Data visealization
+.. Statiscal modeling
+.. Handling big data
+.. Machine learning
+.. Deploying to production
+. The Tools that are used in Data Science that are popular SQL, Excel(Quite Streamlined but not complex) Python and R
+
+Data Science Process
+.Find a question
+.Collect the data
+Prepare the data
+.Create a model
+.Evaluate the model
+.Deploy the model
+.. Its a Cycle that Repleats and it is also a iterative process
