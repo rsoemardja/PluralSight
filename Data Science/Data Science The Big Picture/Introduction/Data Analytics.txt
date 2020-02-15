@@ -1,0 +1,6 @@
+Data Analytics
+
+.It is still Data Analysis at its core
+.Data is available on the fly
+.Now we have a lot of tools in this day an age (Excel e.t.c)
+.Show infos with Dashboards and infographics
